@@ -1,0 +1,11 @@
+[
+  { "sku": "TENT-2P", "name": "Ridgeline 2-person tent", "count": 3, "reorder_level": 5 },
+  { "sku": "TENT-4P", "name": "Basecamp 4-person tent", "count": 12, "reorder_level": 4 },
+  { "sku": "LANTERN-LED", "name": "Trail LED lantern", "count": 6, "reorder_level": 6 },
+  { "sku": "STOVE-1B", "name": "Single-burner stove", "count": 0, "reorder_level": 3 },
+  { "sku": "MUG-STEEL", "name": "Steel camp mug", "count": 40, "reorder_level": 10 },
+  { "sku": "BAG-20F", "name": "20°F sleeping bag", "count": 2, "reorder_level": 2 },
+  { "sku": "PAD-FOAM", "name": "Foam sleeping pad", "count": 9 },
+  { "sku": "FILTER-H2O", "name": "Water filter", "count": "4", "reorder_level": 5 },
+  { "sku": "AXE-HAND", "name": "Hand axe", "count": 7, "reorder_level": 8 }
+]
